@@ -14,7 +14,7 @@
     <?php
     //redirect
     if(!isset($_POST["btn"])){
-        header("Location: index.php");
+        header("Location: menu.php");
     }
     ?>
 

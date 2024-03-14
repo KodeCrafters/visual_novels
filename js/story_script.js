@@ -41,7 +41,7 @@ function checkStory() {
 
     if (currStory == null) {
         //console.log("not found")
-        window.location.href = "index.php"
+        window.location.href = "menu.php"
     }
 }
 
